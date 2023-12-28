@@ -1,6 +1,6 @@
 ```
-Name :- Rajalakshmi R
-Reg No :- 23013958
+Name :- Murali Krishna S
+Reg No :- 23012882
 ```
 
 # Exp-1 : Study of basic digital IC s and verification of truth tables for different logic gates realization
@@ -85,17 +85,18 @@ endmodule
 
 
 ### RTL realization:
-![Screenshot 2023-11-24 094535](https://github.com/Raji1009/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/89059861/bc84549b-e208-41c7-8d5d-96aa78cba9f5)
+![image](https://github.com/Murali-Krishna0/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149054535/4e8f9855-cd00-4300-be8e-71206d1e11e0)
+
 
 
 
 ### Truth Table:
-![image](https://github.com/Raji1009/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/89059861/dd0dd69b-0870-4515-b0da-6129de447907)
+![image](https://github.com/Murali-Krishna0/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149054535/676cb245-ea72-4d01-927a-e75d69286962)
+
 
 
 ### Timing Diagram:
-![image](https://github.com/Raji1009/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/89059861/5777006f-8b57-4d2d-9380-2c0ad6cd6ad0)
-
+![image](https://github.com/Murali-Krishna0/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149054535/03acff94-8eb9-449a-ba0a-1c6479874e3e)
 
 
 ## Result:
